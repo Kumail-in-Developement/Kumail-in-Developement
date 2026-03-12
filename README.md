@@ -31,8 +31,6 @@ I am a **Software Engineer** focused on building secure, scalable, and standardi
 An AI-powered fashion recommendation platform that suggests outfits based on user preferences and trends. The system leverages generative AI and 3D visualization technologies to enhance user experience.
 - [View Technical Showcase & Architecture](https://github.com/Kumail-in-Developement/Style-Sync---AI-Driven-Fashion?tab=readme-ov-file#-project-showcase--architecture) 🎨
 
-https://github.com/Kumail-in-Developement/Style-Sync---AI-Driven-Fashion?tab=readme-ov-file#-project-showcase--architecture
-
 Tech: Python | Node.js | Three.js | AWS | OpenAI APIs | Pinecone | Stable Diffusion | LoRA
 
 ---
