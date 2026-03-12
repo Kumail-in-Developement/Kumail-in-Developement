@@ -34,7 +34,7 @@ Tech: Python | Node.js | Three.js | AWS | OpenAI APIs | Pinecone | Stable Diffus
 
 ---
 
-### 🐾 Wildlife Guardian Hub
+### 🐾 [Wildlife Guardian Hub](https://wildlife-guardian-hub.vercel.app/)
 A high-performance conservation platform built for immersive storytelling. It leverages modern web frameworks to raise awareness for endangered species through fluid animations and a thematic, responsive UI.
 
 Tech: Next.js (React) | TypeScript | Tailwind CSS | Framer Motion | Lucide | Vercel
