@@ -6,7 +6,7 @@ I am a **Software Engineer** focused on building secure, scalable, and standardi
 
 ### 🚀 What I’m currently working on:
 - **AI Resume Analyzer:** A tool using **Tailwind CSS** and NLP concepts to help candidates optimize their resumes for ATS systems.
-- - **Library Management API:** A professional-grade REST API built with **.NET 8**, featuring JWT Authentication, BCrypt password hashing, and full **NUnit** test coverage.
+- **Library Management API:** A professional-grade REST API built with **.NET 8**, featuring JWT Authentication, BCrypt password hashing, and full **NUnit** test coverage.
 - **Wildlife Guardian Hub:** Immersive conservation platform focusing on high-fidelity storytelling and fluid UX.
 
 ### 🛠️ Tech Stack:
