@@ -35,7 +35,7 @@ Tech: Python | Node.js | Three.js | AWS | OpenAI APIs | Pinecone | Stable Diffus
 
 ---
 
-### 🤖 AI Resume Analyzer
+### 🤖 [AI Resume Analyzer](https://puter.com/app/resuminator)
 A web application that analyzes resumes using AI to provide feedback and suggestions to improve job applications.
 
 Tech: Next.js (React) | TypeScript | Tailwind CSS | AI APIs
